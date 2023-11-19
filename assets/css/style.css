@@ -228,28 +228,28 @@ ul.curruncyMenu li.nav-item:last-child a {
 .imgs1 {
   background: url(../img/blog1.jpeg);
   width: 100%;
-  min-height: 120%;
+  min-height: 100%;
   background-size: 100% 100%;
 }
 
 .imgs1:hover {
   background: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(../img/blog1.jpeg);
   width: 100%;
-  min-height: 120%;
+  min-height: 100%;
   background-size: 100% 100%;
 }
 
 .imgs2 {
   background: url(../img/blog.jpg);
   width: 100%;
-  min-height: 120%;
+  min-height: 100%;
   background-size: 100% 100%;
 }
 
 .imgs2:hover {
   background: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url(../img/blog.jpg);
   width: 100%;
-  min-height: 120%;
+  min-height: 100%;
   background-size: 100% 100%;
 }
 
